@@ -3,7 +3,7 @@ import React from "react";
 const Header=()=>{
     return(
         <h1 className="text-lg font-bold ">
-            toso
+            todo
         </h1>
     )
 }
